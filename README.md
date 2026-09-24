@@ -125,9 +125,9 @@ This project provided experience with the complete data analysis process, includ
 
 | File                                 | Description                                                                          |
 | ------------------------------------ | ------------------------------------------------------------------------------------ |
-| `sleep_disorder_analysis.ipynb`      | Jupyter Notebook containing the data preparation, analysis, modeling, and evaluation |
-| `sleep_disorder.csv`                 | Dataset used for the analysis                                                        |
-| `Predictors of Sleep Disorders.pptx` | Presentation summarizing the project, methodology, and findings                      |
+| `Sleep_Sisorder_Analysis.ipynb`      | Jupyter Notebook containing the data preparation, analysis, modeling, and evaluation |
+| `Sleep_Disorder_Dataset.csv`                 | Dataset used for the analysis                                                        |
+| `Sleep_Disorder_Presentation.pptx` | Presentation summarizing the project, methodology, and findings                      |
 
 ---
 
